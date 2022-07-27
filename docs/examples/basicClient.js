@@ -13,4 +13,4 @@ client.on("ready", ()=>{
   dc.send_test(); // REMINDER: send_test should always run when the Discord Bot is ready!
 })
 
-client.login("Z290IHNvbWUgbW9uZXkgZ290IHNvbWUgY2FzaCBpbSByaWNoIG5vdyBpbSBzYWQ=") // It's not a real token, use your token here!
+client.login("Z290IHNvbWUgbW9uZXkgZ290IHNvbWUgY2FzaCBpbSByaWNoIG5vdyBpbSBzYWQ=") // It's not a real token, put your token here!
