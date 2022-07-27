@@ -1,5 +1,9 @@
 # Welcome To The `didi-interact` docs!
-Get started by running our [examples](./examples/README.md), OR [begin reading](#Table-of-contents)!
+Get started by running our examples, OR [begin reading](#Table-of-contents)!
+
+- [Invite 牛弟弟 →](https://didi.c-moo.cf/invite)
+- [Our Discord →](https://discord.gg/bQJyuAD9hw)
+- [Examples →](https://github.com/LittleCow-moo/didi-interact/tree/main/docs/examples/README.md)
 
 # Table of contents
 - [DidiClient](#DidiClient)
