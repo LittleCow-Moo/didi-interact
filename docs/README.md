@@ -4,6 +4,8 @@ Get started by running our examples, OR [begin reading](#Table-of-contents)!
 # Table of contents
 - [DidiClient](#DidiClient)
 - [DidiCommandBuilder](#DidiCommandBuilder)
+- [Action](#Action)
+
 
 ## DidiClient
 Represents a Bot Client for `DIDI.API`.
