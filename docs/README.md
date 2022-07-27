@@ -1,5 +1,5 @@
 # Welcome To The `didi-interact` docs!
-Get started by running our examples, OR [begin reading](#Table-of-contents)!
+Get started by running our [examples](./examples/README.md), OR [begin reading](#Table-of-contents)!
 
 # Table of contents
 - [DidiClient](#DidiClient)
